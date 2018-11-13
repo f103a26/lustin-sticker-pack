@@ -12,7 +12,7 @@
 
 ## Кто такой Алексей Лустин?
 
-* Персональная страница: https://isthisdesign.ru
+* Персональная страница: https://lustin.org
 * Серебряная пуля: https://silverbulleters.org
 * Интервью: 
     - видео: https://www.youtube.com/watch?v=K9oJqqt57es
